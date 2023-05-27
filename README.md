@@ -13,6 +13,11 @@ Some data:
 <div/>
 <br />
 
+ <div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KeyserDSoze" alt="Keyser D. Soze" />
+<div/>
+<br />
+  
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeyserDSoze&theme=dark" alt="Keyser D. Soze" />
 <div/>
