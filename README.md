@@ -20,7 +20,7 @@ Some data:
 <br />
 
  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KeyserDSoze" alt="Keyser D. Soze" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KeyserDSoze&theme=dark" alt="Keyser D. Soze" />
 <div/>
 <br />
   
