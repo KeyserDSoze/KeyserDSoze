@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alessandro%20Rapiti-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arapiti/)](https://www.linkedin.com/in/arapiti/)
 
-Some data:
+## 👨🏻‍💻 GitHub Stats
 
 <div>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeyserDSoze&layout=compact&theme=dark" alt="Keyser D. Soze" />
@@ -28,6 +28,11 @@ Some data:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeyserDSoze&theme=dark" alt="Keyser D. Soze" />
 <div/>
 <br />
+
+## 🏆GitHub Trophies
+<p align="center" style="witdh:100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=KeyserDSoze&theme=dark&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</p>
 
 <br />
 
